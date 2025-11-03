@@ -16,7 +16,7 @@ A production-ready AI-powered customer support assistant that provides structure
 ### 1. Clone the Repository
 
 ```bash
-git clone <your-repo-url>
+git clone git@github.com:praneethreddy1729/customer-support-helper.git
 cd customer-support-helper
 ```
 
