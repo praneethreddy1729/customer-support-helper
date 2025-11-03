@@ -1,0 +1,2 @@
+timestamp,tokens_prompt,tokens_completion,total_tokens,latency_ms,estimated_cost_usd,model,error
+2025-11-03T11:50:36.230757,828,83,911,2507.23,0.000174,openai/gpt-4o-mini,
